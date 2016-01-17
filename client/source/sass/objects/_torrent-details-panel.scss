@@ -1,3 +1,13 @@
+.application {
+
+  &__panel {
+
+    &--torrent-details {
+      background: $torrent-details--background;
+    }
+  }
+}
+
 .torrent-details {
   background: $torrent-details--background;
   bottom: 0;

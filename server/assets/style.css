@@ -1300,6 +1300,9 @@ body {
 .textbox-repeater .textbox__wrapper {
   position: relative; }
 
+.application__panel--torrent-details {
+  background: #162835; }
+
 .torrent-details {
   background: #162835;
   bottom: 0;
